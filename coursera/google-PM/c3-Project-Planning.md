@@ -19,7 +19,7 @@
 * [Introduction to Kanban Boards](./c3-w2-r5-introduction-to-kanban-boards.md)
 
 ## Week3
-* [Project Budgeting 101](./c3-w3-r1-project-budgeting-101-md)
+* [Project Budgeting 101](./c3-w3-r1-project-budgeting-101.md)
 
 * [Tips for Procurement Process](./c3-w3-r4-tips-for-procurement-process.md)
 
