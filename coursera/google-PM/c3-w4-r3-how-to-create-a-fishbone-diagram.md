@@ -49,3 +49,5 @@ Identifying risks and measuring their potential impact on a project can be a com
 * Analyze the causes
 
 Once you’ve developed a fishbone diagram to help find a problem’s root cause and measure its potential impact on the project, you can then move on to determining how to mitigate the risk. 
+
+[Back to Project Planning contents](./c3-Project-Planning.md)

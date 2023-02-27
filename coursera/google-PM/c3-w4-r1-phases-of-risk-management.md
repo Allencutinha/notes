@@ -23,3 +23,5 @@ Let’s break these down:
 5. __Monitor and control the risk.__ Finally, assign team members to monitor, track, and mitigate risks if the need arises.
 
 In the upcoming videos and activities, you will learn about each of these phases in more detail and use tools and templates to navigate the risk management process. 
+
+[Back to Project Planning contents](./c3-Project-Planning.md)

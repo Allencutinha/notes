@@ -29,3 +29,4 @@ Lastly, you can accept the risk as the normal cost of doing business. __Active a
 ## Key takeaway
 If you have strategies you can rely on for avoiding, minimizing, transferring, and accepting project risks—including single point of failure risks—you will be in a better position to protect your project from the possible impact of these risks.                               
 
+[Back to Project Planning contents](./c3-Project-Planning.md)

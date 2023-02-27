@@ -76,3 +76,5 @@ There are four types of task dependencies:
 * Start to Finish
 
 A dependency graph can help you visualize these different dependencies and the flow of the work that needs to be done on a project. They can also help you identify any risk associated with them. 
+
+[Back to Project Planning contents](./c3-Project-Planning.md)
