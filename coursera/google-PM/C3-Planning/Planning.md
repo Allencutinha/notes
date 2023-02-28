@@ -143,7 +143,7 @@ __Time estimation__ is used to predict the amount of time that will be required 
 
 Let’s discuss the following case study, which discusses how inaccurate time estimation can affect a project.
 
-### __Run fast, pay later: A case study on time estimation__  
+### __Run fast, pay later: A case study on time estimation__  <a id="w2r1"></a>
 
  ![Image of a person sitting at a desk with their head in their hands looking overwhelmed](./images/c3-w2-r1.png)
 Kendra just scored a project manager role on a new project. It was a highly competitive bid, and the company and Kendra are eager to do a great job.
