@@ -126,7 +126,8 @@ As a reminder, here are three main steps to follow when creating a WBS:
 For further learning on best practices for developing a WBS, check out this article:
 
 [How to Create a Work Breakdown Structure and Why You Should](https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should)
-## Case study: Run fast, pay later
+
+# Case study: Run fast, pay later <a id="w2r1"></a>
 __Time estimation__ is used to predict the amount of time that will be required to complete a task. We have talked about how a central part of being a project manager involves planning. Carefully performing key steps of your planning process, such as time estimation, can have a big impact on the success of your project. Conversely, flawed time estimation is the root cause of many failed projects. That means many projects fail because project managers and teams fail to accurately estimate the time that it will take to complete tasks. 
 
 Let’s discuss the following case study, which discusses how inaccurate time estimation can affect a project.
