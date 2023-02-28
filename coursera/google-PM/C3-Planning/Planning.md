@@ -1,57 +1,41 @@
-## Project Planning
+## Project Planning <a id="c3"></a>
 
 ### Week1
 * [Tips for leading a successful kick-off meeting](#w1r1)
-
 * [Setting milestones: Best practices](#w1r2)
-
 * [Work Breakdown Structure](#w1r3)
 
 ### Week2 
 * [Case Study : Run fast pay later](#w2r1)
-
 * [Overcoming the Planning Fallacy](#w2r2)
-
 * [Creating Critical Path](#w2r3)
-
 * [Create a Project Plan Tools and Templates](#w2r4)
-
 * [Introduction to Kanban Boards](#w2r5)
 
 ### Week3 - Budget  and procurement
 * [Project Budgeting 101](#w3r1)
-
 * [Overcoming Budgeting Challenges](#w3r2)
-
 * [Budgeting Terms](#w3r3)
-
 * [Tips for Procurement Process](#w3r4)
-
 * [Avoiding Ethical traps in Procurement](#w3r5)
 
 ### Week4 - Risk Management
 * [Phases of Risk Management](#w4r1)
-
 * [Uncover Opportunities uinsg Risk Management](#w4r2)
-
 * [How to create a fishbone diagram](#w4r3)
-
 * [Managing Singgle Point of Failures](#w4r4)
-
 * [Visualizing Dependency relationships](#w4r5)
 
 ### Week5 - Communication & Documentation
 
 * [Tips for Effective communication](#w5r1)
-
 * [Best practices for building a communication plan](#w5r2)
-
 * [Tailoring a resume for Project Management](#w5r3)
-
 * [OKR - Objectives and Key Results](#w5r4)
 
-
 [Back - to Specialization topics](./../README.md)
+
+<div style="page-break-after: always;"></div>
 
 # Tips for leading a successful kick-off meeting <a id="w1r1"></a>
 In the previous video, you learned what a project __kick-off meeting__ is and what it involves. As a reminder, a kick-off meeting is the first meeting among the project team, stakeholders, and the project sponsor at the start of a new project or new project phase. The purpose of a kick-off meeting is to ground everyone in a shared vision, ensure they understand the project’s goals and scope, and make sure that they are all on the same page about their roles and responsibilities on the project. The kick-off meeting is critical to a project’s overall success. It gets the team together to align on goals and visions for the project and sets the project up for success.
@@ -78,7 +62,9 @@ This reading will provide you with some tips for running an effective kick-off m
 * __Follow up after the meeting.__ After the meeting, make sure to send out a meeting summary featuring the meeting notes and any action items. 
 
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Setting milestones: Best practices <a id="w1r2"></a>
 You have learned what milestones and tasks are and when, where, and how you will use them as a project manager. In this reading, we will explore best practices for setting milestones. But first, let’s revisit the definitions of tasks and milestones. 
@@ -115,7 +101,9 @@ Here are some things to avoid when setting milestones:
 ## Key takeaways
 Your approach to setting milestones may differ from project to project, but most projects will have at least one milestone and several smaller tasks associated with each milestone. Setting clearly-defined, distinct tasks, and milestones, integrating them into your project schedule, and using a tool that visualizes them together will help organize your project and drive it forward.
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Breaking down the work breakdown structure <a id="w1r3"></a>
 In the previous video, you were introduced to a major component of the planning phase: the creation of a __work breakdown structure (WBS).__ A WBS is a deliverable-oriented breakdown of a project into smaller components. It’s a tool that sorts the milestones and tasks of a project into a hierarchy, in the order they need to be completed. 
@@ -178,6 +166,8 @@ In this case study, the project manager faced the repercussions of careless time
 Be realistic when estimating time and effort for a project. Take the time to carefully evaluate potential risks and the impact on the work, and talk to your team members about these challenges. Don’t be afraid to escalate potential concerns to management. Optimism is a trait of a great project manager and leader, but it can adversely affect your projects when it comes to time estimation.# Overcoming the planning fallacy
 It is human nature to underestimate the amount of time and effort it takes to complete a task—from anything as simple as walking the dog to something as complex as completing a project. People generally want to remain hopeful about a positive outcome, and this is a great quality to have as a person. But as a project manager, this kind of optimism can also be a deficiency, especially during the planning phase of a project. Let’s examine a theory known as the __planning fallacy__ to better understand how to set yourself up for success in the planning phase. 
 
+<div style="page-break-after: always;"></div>
+
 # The planning fallacy and optimism bias <a id="w2r2"></a>
 The idea of the planning fallacy was first introduced in a 1977 paper written by Daniel Kahneman and Amos Tversky, two foundational figures in the field of behavioral economics. The planning fallacy describes our tendency to underestimate the amount of time it will take to complete a task, as well as the costs and risks associated with that task, due to __optimism bias__. Optimism bias is when a person believes that they are less likely to experience a negative event. For example, when you are planning to walk your dog in between meetings, you might think that you can do it faster than you actually can. Optimism bias is what tells you that you are going to be able to walk your dog without being late for your next meeting. If you don’t consider things that might affect the time it will take you to walk your dog—the weather, the chance of them running into another dog and wanting to play, or the fact that they frequently get distracted while sniffing around—you might be late for your next meeting, or you might miss it altogether! 
 
@@ -207,7 +197,9 @@ Fortunately, David is mindful of the planning fallacy. He examines the time esti
 ## Key takeaways
 Being on the lookout for __“what-ifs”__ is a key project management skill. Considering situations that could affect whether or not the project is completed on time can help you overcome the planning fallacy. Also, you will always have a project team in your corner, so make sure you use them as resources to help uncover possible risks. Remember to be “optimistically realistic” and push for the best outcome while still planning for the proper time to accomplish each task.
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Creating a critical path <a id="w2r3"></a>
 As you’ve just learned, the critical path refers to the list of required project milestones you must reach to complete the project schedule, as well as the mandatory tasks that contribute to the completion of each milestone. You can think of the critical path as a framework that tells you, the project manager, where you are, where you are headed, and when you will get there. 
@@ -299,7 +291,7 @@ You can also calculate the critical path using two common approaches: the forwar
 
 * The __backward pass__ is the opposite—start with the final task or milestone and move backwards through your schedule to determine the shortest path to completion. When there is a hard deadline, working backwards can help you determine which tasks are actually critical. You may be able to cut some tasks—or complete them later—in order to meet your deadline.  
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
 
 # Creating a project plan: Tools and templates
 __Project plans__ are critical because they are used to capture the scope and time it takes to complete a project. The project plan is essentially the project’s blueprint—it lays out all of the activities and milestones that your team needs to achieve in order to successfully complete the project. Project plans come in various shapes, sizes, and forms. Depending on the project you are managing, the template you use may vary, and some companies even have standard templates they require their project managers to use. 
@@ -341,7 +333,9 @@ There are many work management tool options available for you to utilize when pl
 ### Key takeaway
 The tool you use to create your project plan should help you collect and track project details, manage your schedule, and visualize how your project is progressing. A clear, thorough, and organized project plan can help create the recipe for project management success.
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Introduction to Kanban boards <a id="w1r5"></a>
 __Kanban boards__ are a visual tool used to manage tasks and workflows. Kanban boards can be created on whiteboards, magnetic boards, poster boards, computer programs, and more. Tasks associated with the project are written on cards. These cards are placed in columns, which represent the progress made. 
@@ -386,7 +380,9 @@ __Back__
 ## Kanban board software
 If you opt to use a software tool rather than a physical board, you have a few options. Asana and Trello are both great software tools to use if you are looking to introduce Kanban to your project. There are many options, so take the time to evaluate which is best for you and your project.
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Project budgeting 101 <a id="w3r1"></a>
 A project budget is the estimated monetary resources needed to achieve a project's goals and objectives. In previous lessons, we covered a wide range of information related to project budgets. Let’s recap to make sure you have the information and tools you need to create and manage your project’s budget.
@@ -442,7 +438,9 @@ You may also want to account for cost of quality in your overall project budget.
 ## Key takeaways
 Budgeting in the project management world is a complex process involving many different parties and documentation, but following the best practices described in this reading can help break it down. Remember to use historical data and time-phasing, and reach out to your team for support. Make sure you are capturing all of the components of your budget, including direct and indirect costs. Finally, be sure to baseline your budget so you know where your money is being used and when. These tips can help set you up for budget management success.
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Overcoming budgeting challenges <a id="w3r2"></a>
 As you have learned, effective budgeting can set you up for success as a project manager. This reading will discuss some of the most common budgeting challenges you may encounter as a project manager and how to manage them.
@@ -481,7 +479,9 @@ Addressing these factors as you plan your project can help prevent scope creep f
 ## Key takeaway
 There can be many challenges to face when planning and managing a budget. Budget pre-allocation, underestimating the TCO of project resources, and scope creep are some of the most common. As you continue your career as a project manager, awareness of these challenges can help you avoid and overcome them.
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Optional: Introduction to budgeting terms <a id="w3r3"></a>
 Now that you have learned how to create a project budget, let’s discuss some of the common terms you will use when you are estimating, tracking, and maintaining it. 
@@ -516,7 +516,9 @@ While contingency reserves are used to cover the costs of identified risks, mana
 
 Contingency reserves are an estimated amount, whereas management reserves are generally a percentage of the total cost of the project. To determine a project’s management reserves, you can estimate a percentage of the budget to set aside. This estimate is typically between 5–10%, but the amount is based on the complexity of the project. A project with a more complex scope may require higher management reserves. Note that the project manager will generally need approval from the project sponsor in order to use management reserves.
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Tips for the procurement process <a id="w3r4"></a>
 As you have learned, __procurement__ means obtaining all of the materials, services, and supplies required to complete the project. You have just learned about the procurement process in project management. To recap, there are five steps in the typical procurement process:
@@ -567,7 +569,9 @@ During this step, it is also important to document any lessons learned. It is li
 ## Key takeaways
 Procurement is an ongoing process that can be repeated during the life cycle of a project. You may initiate the procurement process several times over if you need additional deliverables. To do so, you will likely evaluate your current vendors—or select new ones if necessary. If you change vendors or contract terms, you will have to write new contracts. It is important to periodically review the quality of each vendor during the controlling phase and, once everything is finished, document the lessons you learned during the completion phase. 
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Avoiding ethical traps in procurement <a id="w3r5"></a>
 Now that you have learned about the importance of ethics when conducting procurements, let’s talk about some potential ethical traps you might face and how to navigate them. 
@@ -612,7 +616,9 @@ When you face an ethical dilemma, ask yourself questions in each of the followin
 ## Key takeaway
 Making a decision when facing an ethical dilemma can be challenging. But learning the legal requirements for your procurements, sticking to a professional code of ethics, and testing yourself on the ethics of your decision making can help you avoid ethical traps and conduct your procurements honestly, responsibly, and fairly. 
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Phases of risk management <a id="w4r1"></a>
 In a previous video, you learned that risk management is the process of identifying and evaluating potential risks and issues that could impact your project. Risk management is an ongoing practice throughout the life cycle of your project. It typically involves some variation of these five steps:
@@ -640,8 +646,10 @@ Let’s break these down:
 
 In the upcoming videos and activities, you will learn about each of these phases in more detail and use tools and templates to navigate the risk management process. 
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
- 
+[Back to Project Planning contents](#c3)
+
+ <div style="page-break-after: always;"></div>
+
 # Uncover opportunities using risk management <a id="w4r2"></a>
 When you think about risks, it is likely that you automatically think of potential negative events. But when identifying risks, it is important to also consider the good things that could happen, which are considered opportunities. An opportunity is a potential positive outcome of a risk. It is important to recognize opportunities and to capitalize on them as they appear so you can reach your project goals faster, more cheaply, or with less effort. Some examples of opportunities include: 
 
@@ -655,7 +663,9 @@ An __opportunity__ is a potential positive outcome that may bring additional val
 As a project manager, you should always be on the lookout for potential opportunities when developing your risk management plan. Review the following article for further information on using risk management strategies to identify and take advantage of opportunities that may occur during your projects:  [Effective strategies for exploiting opportunities](https://www.pmi.org/learning/library/effective-strategies-exploiting-opportunities-7947)
 
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # How to create a fishbone diagram <a id="w4r3"></a>
 Previously, you learned about some tools to help you identify risks. In this reading, we will dive deeper into how to create and use one of those tools: the fishbone diagram.
@@ -709,7 +719,9 @@ Identifying risks and measuring their potential impact on a project can be a com
 
 Once you’ve developed a fishbone diagram to help find a problem’s root cause and measure its potential impact on the project, you can then move on to determining how to mitigate the risk. 
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Managing single point of failure risks <a id="w4r4"></a>
 Previously, you learned how to use various tools and strategies to identify and manage risks as you plan your project. In this reading, we will discuss how to manage risks with the highest potential of impacting your project.
@@ -742,7 +754,9 @@ Lastly, you can accept the risk as the normal cost of doing business. __Active a
 ## Key takeaway
 If you have strategies you can rely on for avoiding, minimizing, transferring, and accepting project risks—including single point of failure risks—you will be in a better position to protect your project from the possible impact of these risks.                               
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Visualizing dependency relationships <a id="w4r5"></a>
 In the video, you learned to identify several types of risks. In this reading, we will be discussing the different types of dependencies that can play a critical role in our project’s success. 
@@ -823,7 +837,9 @@ There are four types of task dependencies:
 
 A dependency graph can help you visualize these different dependencies and the flow of the work that needs to be done on a project. They can also help you identify any risk associated with them. 
 
-[Back to Project Planning contents](./c3-Project-Planning.md)
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Tips for effective communication <a id="w5r1"></a>
 In the previous videos, you learned that communication is key to any successful project. As a project manager, you are central to that communication, which is an ongoing process throughout the life cycle of a project. A good project manager must be effective in communicating with all stakeholders and team members through various mediums.
@@ -883,6 +899,10 @@ In this final step, you will obtain feedback from your audience to ensure that y
 ## Key takeaways
 You now have the steps to communicate effectively as a project manager! You have learned how to foster open, inclusive communication by recognizing and understanding individual differences among your team members. You know how to craft and deliver an appropriate message and the importance of obtaining and addressing feedback. Most importantly, make sure your communications are clear, honest, relevant, and frequent. Following these guidelines will set you up for successful communication throughout your projects. 
 
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
+
 # Best practices for building a communication plan <a id="w5r2"></a>
 In the previous video, you learned how to develop a basic communication plan. You also learned how to document who needs to be involved in project communication, how to communicate with them, why you are communicating, and how often that communication should occur. 
 
@@ -928,6 +948,10 @@ Evaluate where you may be over- or under-sharing information or missing stakehol
 * One-on-one conversations and check-ins with key stakeholders
 
 Keep these tips in mind as you build your next communication plan and you will be set for communication success! # Tailoring a resume for project management
+
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 # Tailoring a resume for project management <a id="w5r3"></a>
 
@@ -1059,6 +1083,10 @@ Your resume is now updated and ready to use for project management position appl
 
 __Pro tip:__ It is always a good idea to have someone review your resume for any spelling or grammatical errors. Recruiters and hiring managers often toss resumes aside that contain typos. Once you are sure your resume is error-free, it is time to start your job search! # OKR's for personal and professional development
 As you prepare for a new career in project management, it’s also a great time to set some personal OKRs (objectives and key results) to track your progress towards achieving your own personal goals. 
+
+[Back to Project Planning contents](#c3)
+
+<div style="page-break-after: always;"></div>
 
 ## OKR Review <a id="w5r4"></a>
 __OKR__ stands for __objectives and key results__. They combine a goal and a metric to determine a measurable outcome. 
