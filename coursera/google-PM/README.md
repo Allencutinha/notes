@@ -1,14 +1,17 @@
 # Google Project Management Specialization
 
-* Introduction to Project Management
+### 1. Introduction to Project Management
 
-* Project Initiation : Starting a sucessfull Project
+### 2. Project Initiation : Starting a sucessfull Project
 
-* [Project Planning : Putting it all together](./C3-Planning/c3-Project-Planning.md)
+### [3. Project Planning : Putting it all together](./C3-Planning/c3-Project-Planning.md)
 
-* [Project Execution : Running the project](./C4-Execution/c4-Project-Execution.md)
+### [4. Project Execution : Running the project](./C4-Execution/c4-Project-Execution.md)
 
-* Agile Project Management
+### 5. Agile Project Management
 
-* Capstone : Applying Project Management in Real World
+### 6. Capstone : Applying Project Management in Real World
+
+
+[Back to __Coursera__ topics](../README.md)
 
