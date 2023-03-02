@@ -11,3 +11,5 @@
 * [Quality Management Concepts](./c4-w2-r1-quality-management-concepts.md)
 * [User Acceptance and Testing](./c4-w2-r2-user-acceptance-and-testing.md)
 
+[Back - to Specialization topics](./../README.md)
+
