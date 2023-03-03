@@ -38,3 +38,5 @@ Keep everyone, including key stakeholders, informed.
 Request more resources and support (if needed).
 
 Create structure and transparency by recording the project status in a centralized place.
+
+[Back](./c4-Project-Execution.md)

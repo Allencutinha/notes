@@ -11,5 +11,15 @@
 * [Quality Management Concepts](./c4-w2-r1-quality-management-concepts.md)
 * [User Acceptance and Testing](./c4-w2-r2-user-acceptance-and-testing.md)
 
+
+
+### week3 - Gathering, Prioritizing and Presenting Data
+* [Common Data metrics for project managemnent](./c4-w3-r1-common-data-metrics-for-project-management.md)
+* [Data ethics considerations](./c4-w3-r2-data-ethics-considerations.md)
+* [the six steps of data analysis](./c4-w3-r3-the-six-steps-of-data-analysis.md)
+* [Different ways to Visualize Data](./c4-w3-r4-different-ways-to-visualize-data.md)
+* [Preparing an effective Presentation](./c4-w3-r5-preparing-an-effective-presentation.md)
+
 [Back - to Specialization topics](./../README.md)
+
 

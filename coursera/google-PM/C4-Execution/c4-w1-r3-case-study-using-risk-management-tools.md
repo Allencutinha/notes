@@ -32,3 +32,6 @@ In this case study, early risk management planning enabled Naja to act quickly w
 By consulting an existing mitigation plan and weighing two options for moving forward, Naja and Abe were able to make an informed decision about the best path forward. Naja also communicated the growth-related risks associated with the plan to the project sponsor in a timely fashion.
 
 As you manage projects of your own, issues will come up again and again. When you do the heavy lifting of risk management planning before starting work on the project, you will be better equipped to respond to problems quickly.
+
+
+[Back](./c4-Project-Execution.md)

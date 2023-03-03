@@ -19,3 +19,5 @@ To learn more about these concepts, check out these articles:
 * [What Is a Quality Plan?](https://asq.org/quality-resources/quality-plans)
 
 * [Quality Assurance & Quality Control](https://asq.org/quality-resources/quality-assurance-vs-control)
+
+[Back](./c4-Project-Execution.md)
