@@ -20,6 +20,11 @@
 * [Different ways to Visualize Data](./c4-w3-r4-different-ways-to-visualize-data.md)
 * [Preparing an effective Presentation](./c4-w3-r5-preparing-an-effective-presentation.md)
 
+
+
+### week4 - Leadership and influencing skills
+* [Providing air cover to your team](./c4-w4-r1-providing-air-cover-to-your-team.md)
+* [Framework for Ethical Decision making](./c4-w4-r2-framework-for-ethical-decision-making.md)
+* [Creating an Influencing statement](./c4-w4-r3-creating-an-influencing-statement.md)
+
 [Back - to Specialization topics](./../README.md)
-
-
