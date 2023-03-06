@@ -27,4 +27,11 @@
 * [Framework for Ethical Decision making](./c4-w4-r2-framework-for-ethical-decision-making.md)
 * [Creating an Influencing statement](./c4-w4-r3-creating-an-influencing-statement.md)
 
+
+
+### week5 - Effective Project Communication
+* [Principles of effective email writing](./c4-w5-r1-principles-of-effective-email-writing.md)
+* [Facilitate inclusive and accessible meetings](./c4-w5-r2-faciliate-inclusive-and-accessible-meetings.md)
+* [Checklist for productive meetings](./c4-w5-r3-checklist-for-productive-meetings.md)
+
 [Back - to Specialization topics](./../README.md)
