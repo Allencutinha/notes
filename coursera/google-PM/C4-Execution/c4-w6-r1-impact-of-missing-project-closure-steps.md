@@ -43,3 +43,6 @@ In order to better understand what can happen when a project is not properly clo
 * Damage your relationship with the customer or client.
 
 All of the steps of the project life cycle—initiating the project, making a plan, executing and completing tasks, and closing the project—are essential for a successful outcome. Unfortunately, closing the project is a phase that too often gets skipped, which can negatively impact both the project manager and their organization. To avoid these issues, make sure to plan for this phase just as you would any of the other project life cycle phases.
+
+[Back](./c4-Project-Execution.md)
+

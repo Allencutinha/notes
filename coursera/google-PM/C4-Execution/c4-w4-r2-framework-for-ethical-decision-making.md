@@ -42,6 +42,9 @@ Note that your answers to these questions are subjective, and you may want to el
 
 * __Example__: In the case of the vendor gift example, the answer to the question “Which option treats people equally or proportionally?” might be “decline the gift,” given that accepting it might influence your decision about who to award the contract to.
 
+[Back](./c4-Project-Execution.md)
+
+
 ### Make a decision and test it
 Once you have chosen an option, test it by imagining the reaction to your choice from a person whose opinion you value. 
 

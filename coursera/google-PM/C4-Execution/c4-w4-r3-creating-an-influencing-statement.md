@@ -73,3 +73,5 @@ In this influencing statement, the project manager:
 * **Connected** emotionally by encouraging her audience to reflect on past experiences they may have endured as a new hire. 
 
 By opening with a strong influencing statement, you can set yourself up for a successful conversation that is more likely to persuade your audience and achieve your goals.
+
+[Back](./c4-Project-Execution.md)
