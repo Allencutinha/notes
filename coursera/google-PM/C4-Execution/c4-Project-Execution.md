@@ -34,7 +34,7 @@
 * [Facilitate inclusive and accessible meetings](./c4-w5-r2-faciliate-inclusive-and-accessible-meetings.md)
 * [Checklist for productive meetings](./c4-w5-r3-checklist-for-productive-meetings.md)
 
-### week6 - Closing a project
+### week 6 - Closing a project
 * [Impact of missing Project Closure steps](./c4-w6-r1-impact-of-missing-project-closure-steps.md)
 * [Demonstrating Impact to Stakeholders](./c4-w6-r2-demonstrating-impact-to-stakeholders.md)
 
