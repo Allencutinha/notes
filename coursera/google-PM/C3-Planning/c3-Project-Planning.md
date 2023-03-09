@@ -1,13 +1,13 @@
 ## Project Planning
 
-### Week1
+### Week 1 - Beginning the planning Phase
 * [Tips for leading a successfull kickoff meeting](./c3-w1-r1-tips-for-leading-a-sucessful-kick-off-meeting.md)
 
 * [Setting Milestones Best Practices](./c3-w1-r2-setting-milestones-best-practices)
 
 * [Work Breakdown Structure](./c3-w1-r3-work-breakdown-structure.md)
 
-### Week2 
+### Week 2 - Building a Project Plan
 * [Case Study : Run fast pay later](./c3-w2-r1-case-study-run-fast-pay-later.md)
 
 * [Overcoming the Planning Fallacy](./c3-w2-r2-Planning-Overcoming-the-planning-fallacy.md)
@@ -18,7 +18,7 @@
 
 * [Introduction to Kanban Boards](./c3-w2-r5-introduction-to-kanban-boards.md)
 
-### Week3 - Budget  and procurement
+### Week 3 - Budget  and procurement
 * [Project Budgeting 101](./c3-w3-r1-project-budgeting-101.md)
 
 * [Overcoming Budgeting Challenges](./c3-w3-r2-overcoming-budgeting-challenges.md)
@@ -28,7 +28,7 @@
 * [Tips for Procurement Process](./c3-w3-r4-tips-for-procurement-process.md)
 * [Avoiding Ethical traps in Procurement](./c3-w3-r5-avoiding-ethical-traps-in-procurement.md)
 
-### Week4 - Risk Management
+### Week 4 - Risk Management
 * [Phases of Risk Management](./c3-w4-r1-phases-of-risk-management.md)
 
 * [Uncover Opportunities uinsg Risk Management](./c3-w4-r2-uncover-opportunities-using-risk-management.md)
@@ -39,7 +39,7 @@
 
 * [Visualizing Dependency relationships](./c3-w4-r5-visualizing-dependency-relationships.md)
 
-### Week5 - Communication & Documentation
+### Week 5 - Communication & Documentation
 
 
 
