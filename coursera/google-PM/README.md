@@ -2,7 +2,7 @@
 
 ### 1. Introduction to Project Management
 
-### 2. Project Initiation : Starting a successful Project
+### [2. Project Initiation : Starting a successful Project](./C2-Initiation/c2-Initiation.md)
 
 ### [3. Project Planning : Putting it all together](./C3-Planning/c3-Project-Planning.md)
 
