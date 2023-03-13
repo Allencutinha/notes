@@ -10,8 +10,10 @@
 
 ### [5. Agile Project Management](./C5-Agile-Project-Management/c5-agile-project-management.md)
 
-### 6. Capstone : Applying Project Management in Real World
+### [6. Capstone : Applying Project Management in Real World](./C6-Capstone/c6-capstone.md)
 
+<br>
+<br>
 
 [Back to __Coursera__ topics](../README.md)
 
