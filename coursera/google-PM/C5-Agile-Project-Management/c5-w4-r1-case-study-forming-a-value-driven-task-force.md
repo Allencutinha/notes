@@ -33,3 +33,4 @@ When you are finished, think about how Scrum benefitted Sephora and how it impro
 
 [Link: How Sephora Teams Came Together to Create an Agile Task Force](https://medium.com/sephoralife/how-sephora-teams-came-together-to-create-an-agile-task-force-3d937dd590ca)
 
+[Back](./c5-agile-project-management.md)

@@ -40,4 +40,3 @@ For example, imagine that you are given a project that originally includes three
 Taking the time to clarify expectations—particularly around communication methods, resources available, and scope—during the initiation phase will increase the chances of your project’s success. Even if you follow these best practices, you may still encounter failure. Remember that in every failure, there is the opportunity to learn, grow, and do better the next time.
 
 For additional reading on lessons that can be learned from projects that have failed, check out this article: [Seven Lessons to Learn from a Failed Project](https://project-management.com/7-lessons-to-learn-from-a-failed-project/)
-

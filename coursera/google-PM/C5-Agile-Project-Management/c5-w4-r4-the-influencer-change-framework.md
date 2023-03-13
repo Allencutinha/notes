@@ -49,3 +49,5 @@ These three keys to influence make up the influencer change framework and will i
 To learn more, we suggest reading the book [INFLUENCER: The New Science of Leading Change](https://www.prnewswire.com/news-releases/influencer-the-new-science-of-leading-change-207352831.html) or the article [The Influencer Change Framework–The Power to Change Anything,](https://sourcesofinsight.com/influencer-the-power-to-change-anything/) which summarizes the book. 
 
 
+[Back](./c5-agile-project-management.md)
+

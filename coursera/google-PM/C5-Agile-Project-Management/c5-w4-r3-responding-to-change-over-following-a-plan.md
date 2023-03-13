@@ -58,3 +58,5 @@ This ensures that the team is supportive and aware of the change.
 If the change was not approved during the decision stage, you should still document the information and logic used to make the decision. You may even consider putting a change on hold while you wait for more information to make the decision with higher confidence.
 
 
+[Back](./c5-agile-project-management.md)
+

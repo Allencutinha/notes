@@ -60,3 +60,5 @@ When deciding which approach to use, ask yourself:
 
 For further reading on coaching with Scrum values, check out this [blog](https://www.scrum.org/resources/blog/4-ways-coach-scrum-values) post from Scrum.org. 
 
+[Back](./c5-agile-project-management.md)
+

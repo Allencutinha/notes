@@ -7,3 +7,5 @@ In the last video, we discussed the role of DevOps in Agile at a high level. Man
 
 * [The Convergence of Scrum and DevOps](https://www.scrum.org/resources/convergence-scrum-and-devops)
 
+
+[Back](./c5-agile-project-management.md)
