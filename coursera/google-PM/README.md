@@ -1,6 +1,6 @@
 # Google Project Management Specialization
 
-### 1. Introduction to Project Management
+### [1. Introduction to Project Management](./C1-Foundations/c1-foundation.md)
 
 ### [2. Project Initiation : Starting a successful Project](./C2-Initiation/c2-Initiation.md)
 
