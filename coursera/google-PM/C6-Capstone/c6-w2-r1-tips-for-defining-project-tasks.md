@@ -17,3 +17,7 @@ Defining project tasks by the amount of time they’re expected to take will rev
 
 # Identify project tasks by their “done” factors
 Begin with the end in mind: What does it mean for the task to be considered “done”? From there, you can work backwards to see if you’ve missed any steps and identify checkpoints for completion along the way. 
+
+
+[Back](./c6-capstone.md)
+

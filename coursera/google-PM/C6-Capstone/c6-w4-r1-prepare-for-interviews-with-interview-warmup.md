@@ -44,3 +44,7 @@ Interview Warmup gives you the space to practice and prepare for interviews on y
 
 ## Key takeaways
 Practicing for interviews is an important skill for your career in project management. Using Interview Warmup can help you practice interview questions and receive feedback in real time. As you practice, you will gain confidence and be able to prepare more polished responses for common interview questions.
+
+
+[Back](./c6-capstone.md)
+

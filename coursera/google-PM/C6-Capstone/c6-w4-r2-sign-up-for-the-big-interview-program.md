@@ -24,3 +24,7 @@ Follow the steps below to sign up for your Big Interview account and start pract
 1. Click Google Certificates Practice Sets.
 
 1. Choose Project Management to begin practicing!
+
+
+[Back](./c6-capstone.md)
+

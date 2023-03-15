@@ -19,3 +19,7 @@ Even after you’ve established the project’s scope, some stakeholders may wan
 * **Do not make it personal.** Always focus on what is good for the project. If personal considerations enter into the discussion, reframe the conversation by bringing up objective facts.
 
 * **Seek a win-win outcome.** Finally, consider what it will take for the other side to be satisfied. Then, try to identify a way to ensure you are satisfied as well. There will be times when one party may have to compromise more than the other,  but a **mutually beneficial** agreement (an agreement that benefits all parties involved) should always be the goal. The next reading will cover strategies for achieving mutually beneficial agreements with stakeholders. 
+
+
+[Back](./c6-capstone.md)
+

@@ -25,3 +25,7 @@ Think of examples of times you achieved something so you are prepared to answer 
 Come to the interview with your own questions, such as “What are some upcoming projects I’d be working on? What current goals is the company focused on? Can you tell me about the team I’ll be working with?” This not only shows you care about understanding the company and the position you’re applying for, but it’s also a testament to the research you’ve done by looking into the company. Besides, this is your opportunity to interview them as well. 
 
 This type of preparation will help you feel confident and prepared to talk about yourself, your experience, your career aspirations, and the position on your interview.
+
+
+[Back](./c6-capstone.md)
+

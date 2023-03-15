@@ -37,3 +37,8 @@ This method takes into account that the most likely case is more likely to occur
 Placing more weight on the most likely estimate increases the accuracy of the estimate. In most cases, the Beta (PERT) Distribution has been proven to be more accurate than three-point estimating and is often used to calculate both cost and time estimates.
 
 ![](./images/c6-w2-r2.5.png)
+
+
+
+[Back](./c6-capstone.md)
+

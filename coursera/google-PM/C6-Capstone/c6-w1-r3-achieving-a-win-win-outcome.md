@@ -7,3 +7,7 @@ In the last reading, you learned about effective ways to negotiate a project’s
 * **Ask questions and listen actively to responses.** Just like you shared your concerns and expectations, you can ask the other party questions to clarify what their concerns and expectations are. That way, both parties will have shared all the necessary information to achieve a mutually beneficial agreement. 
 
 * **Propose multiple options whenever possible.** In negotiations, presenting only one option or solution can set you up for failure because the other person might think your first offer is the only one. If the other party rejects all of your proposals, ask them to communicate which one they like best, as that may point you in the direction of finding a solution that works for everyone.
+
+
+[Back](./c6-capstone.md)
+
