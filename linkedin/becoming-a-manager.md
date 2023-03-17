@@ -379,3 +379,5 @@
 + offer an apology
 + Ask for employee's feedback
 + Make it as an opportunity to improve
+
+# Coaching and Developing Employees
