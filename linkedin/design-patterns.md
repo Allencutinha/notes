@@ -1,3 +1,14 @@
+## Patterns to start learning recommended by big 4
+
++ [x] Abstract factory
++ [ ] Adapter
++ [ ] Composite
++ [ ] Decorator
++ [x] Factory
++ [x] Observer
++ [x] Strategy
++ [ ] Template
+
 # Creational Design Patterns
 good software must be 
 + Flexible 
@@ -143,5 +154,37 @@ class hierarchies and relationships
 
 # Behavioral Design Patterns
 Object Intercommunication
+## Chain of responsibility pattern
 
++ Represents sequential checks as chain of handlers
++ Each handler handles the situation or passes on the responsibility to the next handler
+
+eg: validation of strings 
++ Name
++ email
++ password
+
+
+## Command Pattern
+
++ Use this pattern to reduce coupling between classes that call one another and make functionality more reusable between similar classes
++ Represent events or changes that can occur in our program as their own classes which implement a common command interface
+
+eg: drawing application
+
+
+## Observer Pattern
+
++ When your program has a lot of different events that different object need to react to. in other words, when we only want objects that care about certain events to be notified of their occurrence
++ Write our programs in terms of publishers and subscribers, where publishers simply publish events and subscribers can choose whether or not to listen
+subscribers
+
+
+eg : chat application  
+
+
+## Strategy pattern
+
++ When our program needs a clean maintainable way to choose between different ways of doing things on the fly
++ Represent search of the different ways of doing something as its own strategy class which encapsulates the corresponding logic.
 
