@@ -7,7 +7,7 @@
 + [x] Factory
 + [x] Observer
 + [x] Strategy
-+ [ ] Template
++ [x] Template
 
 # Creational Design Patterns
 good software must be 
