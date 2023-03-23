@@ -2,6 +2,29 @@
 
 # Perception LIDAR
 
+# Sensor Fusion
+The Sensor Fusion Algorithms You Should Know About
+To improve your understanding of exactly what a sensor fusion algorithm is, let’s touch on some that are widely used to give you a concrete sense of use cases.
+
+## Algorithms Based on the Central Limit Theorem
+Perhaps a more user-friendly name for the **central limit theorem (CLT)** is the law of large numbers: It states that as the sample size of whatever we are measuring increases, the average value of those samples will tend towards a normal distribution (a bell curve). A common example is rolling a die — the more rolls we measure, the closer the average value will be to 3.5, or the “true” average.
+
+How does this relate to sensor fusion? Say we have two sensors, an ultrasonic sensor and an infrared sensor. The more samples we take of their readings, the more closely the distribution of the sample averages will resemble a bell curve and thus approach the set’s true average value.  The closer we approach an accurate average value, the less noise will factor into sensor fusion algorithms.
+
+## Kalman Filter
+A Kalman filter is an algorithm that takes data inputs from multiple sources and estimates unknown values, despite a potentially high level of signal noise. Often used in navigation and control technology, Kalman filters have the advantage of being able to predict unknown values more accurately than individual predictions using single methods of measurement.
+
+Sound familiar? This is exactly what we went over in our car example. Because Kalman-filter algorithms are the most widely used application of sensor fusion and provide the foundation for understanding the concept itself, sensor fusion is often synonymous with Kalman filtering. One of the most common uses for Kalman filters is in navigation and positioning technology. Because Kalman filtering is recursive, we only need to know the car’s last known position and speed to be able to predict its current and future state.
+
+## Algorithms Based on **Bayesian Networks**
+Bayes’ rule, which deals with probability, is the basis of the update equation described earlier that combines the motion and measurement models. Bayesian networks, also based on Bayes’ rule, predict the likelihood that any one of several hypotheses is the contributing factor in a given event. K2, hill climbing, iterative hill climbing, and simulated annealing are some well-known Bayesian algorithms.
+
+## Convolutional Neural Networks
+Convolutional neural-network-based methods can simultaneously process many channels of sensor data. From this fusion of such data, they produce classification results based on image recognition. For example, a robot that uses sensory data to tell faces or traffic signs apart relies on convolutional neural-network-based algorithms.
+
+## Summary
+In this article, we talked about sensor fusion algorithms, why they’re useful, and what a few well-known ones look like. We also touched on the equations behind these algorithms, which can be fairly complicated.
+
 # Practice
 
 + Sense
