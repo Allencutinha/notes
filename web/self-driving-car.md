@@ -17,7 +17,11 @@ A Kalman filter is an algorithm that takes data inputs from multiple sources and
 Sound familiar? This is exactly what we went over in our car example. Because Kalman-filter algorithms are the most widely used application of sensor fusion and provide the foundation for understanding the concept itself, sensor fusion is often synonymous with Kalman filtering. One of the most common uses for Kalman filters is in navigation and positioning technology. Because Kalman filtering is recursive, we only need to know the car’s last known position and speed to be able to predict its current and future state.
 
 ## Algorithms Based on **Bayesian Networks**
-Bayes’ rule, which deals with probability, is the basis of the update equation described earlier that combines the motion and measurement models. Bayesian networks, also based on Bayes’ rule, predict the likelihood that any one of several hypotheses is the contributing factor in a given event. K2, hill climbing, iterative hill climbing, and simulated annealing are some well-known Bayesian algorithms.
+Bayes’ rule, which deals with probability, is the basis of the update equation described earlier that combines the motion and measurement models. Bayesian networks, also based on Bayes’ rule, predict the likelihood that any one of several hypotheses is the contributing factor in a given event.  some well-known Bayesian algorithms.
++ K2
++ hill climbing
++ iterative hill climbing
++ simulated annealing
 
 ## Convolutional Neural Networks
 Convolutional neural-network-based methods can simultaneously process many channels of sensor data. From this fusion of such data, they produce classification results based on image recognition. For example, a robot that uses sensory data to tell faces or traffic signs apart relies on convolutional neural-network-based algorithms.
