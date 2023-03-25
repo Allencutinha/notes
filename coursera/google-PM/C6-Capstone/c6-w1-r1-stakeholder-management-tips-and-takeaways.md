@@ -22,5 +22,5 @@ As you work your way through the project life cycle, you will have to maintain g
 ## Key takeaway
 Stakeholders can be your biggest allies as a project manager. Practicing your stakeholder management skills can help you enlist your stakeholders' support and keep them engaged throughout your project.
 
-[Back](../README.md)
+[Back](./c6-capstone.md)
 
