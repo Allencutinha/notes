@@ -1,5 +1,5 @@
 # Perception camera
-
+Describe the role of camera in the perception stack of a self driving car <TBD>
 # Perception LIDAR
 
 # Sensor Fusion
