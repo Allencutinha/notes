@@ -1,7 +1,8 @@
 # Perception camera
 Describe the role of camera in the perception stack of a self driving car <TBD>
 # Perception LIDAR
-
+role of LIDAR in perception tasks
+  
 # Sensor Fusion
 The Sensor Fusion Algorithms You Should Know About
 To improve your understanding of exactly what a sensor fusion algorithm is, let’s touch on some that are widely used to give you a concrete sense of use cases.
