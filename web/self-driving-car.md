@@ -1,5 +1,7 @@
 # Perception camera
 Describe the role of camera in the perception stack of a self driving car <TBD>
+cheapest sensor
+
 # Perception LIDAR
 role of LIDAR in perception tasks
 * Describe the Role of Lidar in the peception tasks
