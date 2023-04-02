@@ -5,6 +5,7 @@ cheapest sensor
 # Perception LIDAR
 role of LIDAR in perception tasks
 * Describe the Role of Lidar in the peception tasks
+* and the models used
   
 # Sensor Fusion
 The Sensor Fusion Algorithms You Should Know About
