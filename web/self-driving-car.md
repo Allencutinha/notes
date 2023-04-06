@@ -1,5 +1,6 @@
 # Perception camera
 Describe the role of camera in the perception stack of a self driving car <TBD>
++ camera model
 + cheapest sensor
 + object detection
 + Traffic sign recognition
