@@ -14,6 +14,7 @@ Describe the role of camera in the perception stack of a self driving car <TBD>
 role of LIDAR in perception tasks
 * Describe the Role of Lidar in the peception tasks
 * and the models used
++ Machine learning approaches
   
 # Sensor Fusion
 The Sensor Fusion Algorithms You Should Know About
