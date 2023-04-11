@@ -3,11 +3,11 @@ Describe the role of camera in the perception stack of a self driving car <TBD>
 + camera model
 + cheapest sensor
 + object detection
++ object tracking
 + Traffic sign recognition
 + Visual SLAM
 + Visual Odometry
 + Semantic segmentation
-+ object tracking
   
 
 # Perception LIDAR
