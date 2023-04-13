@@ -8,7 +8,7 @@ Describe the role of camera in the perception stack of a self driving car <TBD>
 + Visual SLAM
 + Visual Odometry
 + Semantic segmentation
-+ Structure of Motion
++ Structure From Motion
   
 
 # Perception LIDAR
