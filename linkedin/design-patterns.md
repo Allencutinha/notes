@@ -9,6 +9,8 @@
 + [x] Strategy
 + [x] Template
 
+TBD -more patterns need to be adressed
+
 # Creational Design Patterns
 good software must be 
 + Flexible 
